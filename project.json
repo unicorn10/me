@@ -1,0 +1,10 @@
+{
+    "name": "me",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "c",
+    "executable": "me.script",
+    "author": "unicorn10",
+    "minimum_firmware_version": 42
+}
